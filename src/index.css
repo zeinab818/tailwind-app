@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.container{
+    width: 90%;
+}
+.white{
+    color: white;
+}
+
+
